@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/tsiegel22/Tally'
+let g:netrw_dirhist_2='/Users/tsiegel22/Tally/tally_rest_service'
+let g:netrw_dirhist_3='/Users/tsiegel22/Tally'
